@@ -1,0 +1,5 @@
+D:\Repositorio\CadastroUsuario\CadastroUsuario\CadastroUsuario.domain\bin\Debug\CadastroUsuario.domain.dll
+D:\Repositorio\CadastroUsuario\CadastroUsuario\CadastroUsuario.domain\bin\Debug\CadastroUsuario.domain.pdb
+D:\Repositorio\CadastroUsuario\CadastroUsuario\CadastroUsuario.domain\obj\Debug\CadastroUsuario.domain.dll
+D:\Repositorio\CadastroUsuario\CadastroUsuario\CadastroUsuario.domain\obj\Debug\CadastroUsuario.domain.pdb
+D:\Repositorio\CadastroUsuario\CadastroUsuario\CadastroUsuario.domain\obj\Debug\CadastroUsuario.domain.csprojResolveAssemblyReference.cache

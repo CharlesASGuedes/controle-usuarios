@@ -1,0 +1,15 @@
+D:\Repositorio\CadastroUsuario\CadastroUsuario\CadastroUsuario.infra\bin\Debug\CadastroUsuario.infra.dll
+D:\Repositorio\CadastroUsuario\CadastroUsuario\CadastroUsuario.infra\bin\Debug\CadastroUsuario.infra.pdb
+D:\Repositorio\CadastroUsuario\CadastroUsuario\CadastroUsuario.infra\obj\Debug\CadastroUsuario.infra.dll
+D:\Repositorio\CadastroUsuario\CadastroUsuario\CadastroUsuario.infra\obj\Debug\CadastroUsuario.infra.pdb
+D:\Repositorio\CadastroUsuario\CadastroUsuario\CadastroUsuario.infra\bin\Debug\CadastroUsuario.infra.dll.config
+D:\Repositorio\CadastroUsuario\CadastroUsuario\CadastroUsuario.infra\bin\Debug\CadastroUsuario.domain.dll
+D:\Repositorio\CadastroUsuario\CadastroUsuario\CadastroUsuario.infra\bin\Debug\EntityFramework.dll
+D:\Repositorio\CadastroUsuario\CadastroUsuario\CadastroUsuario.infra\bin\Debug\EntityFramework.SqlServer.dll
+D:\Repositorio\CadastroUsuario\CadastroUsuario\CadastroUsuario.infra\bin\Debug\CadastroUsuario.domain.pdb
+D:\Repositorio\CadastroUsuario\CadastroUsuario\CadastroUsuario.infra\bin\Debug\EntityFramework.xml
+D:\Repositorio\CadastroUsuario\CadastroUsuario\CadastroUsuario.infra\bin\Debug\EntityFramework.SqlServer.xml
+D:\Repositorio\CadastroUsuario\CadastroUsuario\CadastroUsuario.infra\obj\Debug\CadastroUsuario.infra.csprojResolveAssemblyReference.cache
+D:\Repositorio\CadastroUsuario\CadastroUsuario\CadastroUsuario.infra\obj\Debug\CadastroUsuario.infra.Migrations.inicio.resources
+D:\Repositorio\CadastroUsuario\CadastroUsuario\CadastroUsuario.infra\obj\Debug\CadastroUsuario.Infra.csproj.GenerateResource.Cache
+D:\Repositorio\CadastroUsuario\CadastroUsuario\CadastroUsuario.infra\obj\Debug\CadastroUsuario.infra.Migrations.target.resources
